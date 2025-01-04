@@ -8,6 +8,7 @@ Creación de Videojuegos Unidad I - Recuperación 2
 
 
 ## Introducción
+Que el alumnado practique los fundamientos de los videojuegos en 3D con Unity.
 
 
 ## Lecciones
