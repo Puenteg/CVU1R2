@@ -100,15 +100,7 @@ Que el alumnado practique los fundamientos de los videojuegos en 3D con Unity.
     * [Leccion 5.4 -Package](https://github.com/Puenteg/CVU1R2/blob/main/Prototype_5%20-%205.4.unitypackage)  <br>
    
 ## Actividad 2: Desafíos
-* [Desafío 01 Jugar a traer la pelota](https://learn.unity.com/tutorial/desafio-2-jugar-a-traer-la-pelota?uv=2020.3&courseId=60d0da1bedbc2a18f70e45e4&projectId=60d0e5e5edbc2a27b2d6d877) <br>
-  * [Package 01]() <br>
-* [Desafío 02 Bombas, globos y booleanos](https://learn.unity.com/tutorial/desafio-3-globos-bombas-y-booleanos?uv=2020.3&courseId=60d0da1bedbc2a18f70e45e4&projectId=60d0e613edbc2a36bd9d0321) <br>
-  * [Package 02]() <br>
-* [Desafio 03, Aplasta comida](https://learn.unity.com/tutorial/desafio-5-aplasta-comida?uv=2020.3&courseId=60d0da1bedbc2a18f70e45e4&projectId=60d0e682edbc2a36bdb06d7f) <br>
-  * [Package 03]() <br>
 
-  ## Desafíos
-     ### Desafío 02: Jugar a traer la pelota
 * [Desafío 02](https://github.com/Puenteg/CVU1R2/tree/main/Challenge_2_MGPG)<br>
 
     ### Desafío 03: Globos, bombas y booleanos
