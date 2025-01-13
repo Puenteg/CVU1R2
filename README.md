@@ -5,7 +5,7 @@ Creación de Videojuegos Unidad I - Recuperación 2
 - [Introducción](#introducción)
 - [Lecciones](#Lecciones)
 - [Desafíos](#desafios)
-- - [Autor](#autores)
+- [Autor](#autores)
 
 ## Introducción
 Que el alumnado practique los fundamientos de los videojuegos en 3D con Unity.
