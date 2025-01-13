@@ -104,10 +104,10 @@ Que el alumnado practique los fundamientos de los videojuegos en 3D con Unity.
 * [Desafío 02](https://github.com/Puenteg/CVU1R2/tree/main/Challenge_2_MGPG)<br>
 
     ### Desafío 03: Globos, bombas y booleanos
-[Desafío 03](https://github.com/Puenteg/CVU1R2/tree/main/Challenge_3_MGPG)<br>>
+* [Desafío 03](https://github.com/Puenteg/CVU1R2/tree/main/Challenge_3_MGPG)<br>
 
    ### Desafío 05: Aplasta comida
-[Desafío 05](https://github.com/Puenteg/CVU1R2/tree/main/Challenge_5_MGPG)<br>
+* [Desafío 05](https://github.com/Puenteg/CVU1R2/tree/main/Challenge_5_MGPG)<br>
 
 
 
