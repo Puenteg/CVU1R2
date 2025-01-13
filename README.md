@@ -4,8 +4,8 @@ Creación de Videojuegos Unidad I - Recuperación 2
 ## Contenido 
 - [Introducción](#introducción)
 - [Lecciones](#Lecciones)
-- [Autores](#autores)
-
+- [Desafíos](#desafios)
+- - [Autor](#autores)
 
 ## Introducción
 Que el alumnado practique los fundamientos de los videojuegos en 3D con Unity.
@@ -106,6 +106,27 @@ Que el alumnado practique los fundamientos de los videojuegos en 3D con Unity.
   * [Package 02]() <br>
 * [Desafio 03, Aplasta comida](https://learn.unity.com/tutorial/desafio-5-aplasta-comida?uv=2020.3&courseId=60d0da1bedbc2a18f70e45e4&projectId=60d0e682edbc2a36bdb06d7f) <br>
   * [Package 03]() <br>
+
+  ## Desafíos
+     ### Desafío 1: Jugar a traer la pelota
+[Desafío 01](https://learn.unity.com/tutorial/desafio-2-jugar-a-traer-la-pelota?uv=2020.3&courseId=60d0da1bedbc2a18f70e45e4&projectId=60d0e5e5edbc2a27b2d6d877#)<br>
+* [Package del desafío 01]()<br>
+* [Video del Desafío 01]()<br>
+* [Documentacion del desafío 01]()<br>
+
+    ### Desafío 2: Globos, bombas y booleanos
+[Desafío 02](https://learn.unity.com/tutorial/desafio-3-globos-bombas-y-booleanos?uv=2020.3&courseId=60d0da1bedbc2a18f70e45e4&projectId=60d0e613edbc2a36bd9d0321)<br>
+* [Package del desafío 02]()<br>
+* [Video del Desafío 02]()<br
+* [Documentacion del desafío 02]()<br>
+
+     ### Desafío 03: Aplasta comida
+[Desafío 03](https://learn.unity.com/tutorial/desafio-5-aplasta-comida?uv=2020.3&courseId=60d0da1bedbc2a18f70e45e4&projectId=60d0e682edbc2a36bdb06d7f)<br>
+* [Package del desafío 03]()<br>
+* [Video del Desafío 03]()<br>
+* [Documentacion del desafío 03]()<br>
+
+
 
 ## Autores
 Maria Guadalupe Puente Gonzalez
